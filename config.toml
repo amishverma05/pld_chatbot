@@ -1,0 +1,6 @@
+[models]
+gemini_model = "models/gemini-2.5-flash"
+embedding_model = "nomic-ai/modernbert-embed-base"
+
+[pinecone]
+index_name = "quickstart"

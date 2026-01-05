@@ -1,0 +1,12 @@
+flask
+sentence-transformers
+joblib
+pinecone
+python-dotenv
+fastapi
+# request
+# json
+# random
+google.generativeai
+# os
+uvicorn
